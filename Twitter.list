@@ -1,9 +1,9 @@
 # > Twitter
-DOMAIN-SUFFIX,pscp.tv,Twitter
-DOMAIN-SUFFIX,periscope.tv,Twitter
-DOMAIN-SUFFIX,t.co,Twitter
-DOMAIN-SUFFIX,twimg.co,Twitter
-DOMAIN-SUFFIX,twimg.com,Twitter
-DOMAIN-SUFFIX,twitpic.com,Twitter
-DOMAIN-SUFFIX,vine.co,Twitter
-DOMAIN-KEYWORD,twitter,Twitter
+DOMAIN-SUFFIX,pscp.tv,Twitter,force-remote-dns
+DOMAIN-SUFFIX,periscope.tv,Twitter,force-remote-dns
+DOMAIN-SUFFIX,t.co,Twitter,force-remote-dns
+DOMAIN-SUFFIX,twimg.co,Twitter,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,Twitter,force-remote-dns
+DOMAIN-SUFFIX,twitpic.com,Twitter,force-remote-dns
+DOMAIN-SUFFIX,vine.co,Twitter,force-remote-dns
+DOMAIN-KEYWORD,twitter,Twitter,force-remote-dns
