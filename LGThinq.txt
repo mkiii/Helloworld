@@ -2,3 +2,4 @@
 DOMAIN-SUFFIX,lgtviot.com,DIRECT
 DOMAIN-SUFFIX,lgthinq.com,DIRECT
 DOMAIN-SUFFIX,lgeapi.com,DIRECT
+DOMAIN-SUFFIX,ats.iot.ap-northeast-2.amazonaws.com,DIRECT
