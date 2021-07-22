@@ -1,1 +1,4 @@
-
+# > LG Thinq
+DOMAIN-SUFFIX,lgtviot.com,DIRECT
+DOMAIN-SUFFIX,lgthinq.com,DIRECT
+DOMAIN-SUFFIX,lgeapi.com,DIRECT
